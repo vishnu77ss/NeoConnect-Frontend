@@ -1,6 +1,6 @@
 # 🏛️ NeoConnect - Frontend Portal
 
-### 🔗 [Live Application Link](https://neo-connect-mern-system-4bwwtjzoq.vercel.app/)
+### 🔗 [Live Application Link](https://neo-connect-mern-system.vercel.app/)
 
 This repository contains the client-side code for NeoConnect, an internal grievance and feedback system.
 
